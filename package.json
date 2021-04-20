@@ -1,0 +1,22 @@
+{
+  "name": "package.demo",
+  "version": "1.0.0",
+  "description": "Ons eerste project met unit testen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "keywords": [
+    "[demo",
+    "\"demo\"",
+    "\"project\"",
+    "\"novi\"",
+    "\"hogeschool\""
+  ],
+  "author": "\"Piet Pieters\"",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
